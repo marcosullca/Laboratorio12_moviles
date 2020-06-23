@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "977238766579",
+    "firebase_url": "https://laboratorios-2d407.firebaseio.com",
+    "project_id": "laboratorios-2d407",
+    "storage_bucket": "laboratorios-2d407.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977238766579:android:2bd1445f982a29be885886",
+        "android_client_info": {
+          "package_name": "edu.pe.tecsup.laboratorio12"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977238766579-8fgj3v7oecj1fnrq582m924k5q24i34h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.pe.tecsup.laboratorio12",
+            "certificate_hash": "8aff2f2ea8fe5229922662a66da866eb6c32fffd"
+          }
+        },
+        {
+          "client_id": "977238766579-o7daim1rm3i1024dsdvmhquf2foetjb6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.pe.tecsup.laboratorio12",
+            "certificate_hash": "a57586a7916eb476392ffe7cfaf4e5062318dc2b"
+          }
+        },
+        {
+          "client_id": "977238766579-bns401tmsgg2jpqtjs9eb40j3qa1hdek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHnBxmR_Dtpt3crqlnZ3Sn-R7W46sIyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977238766579-bns401tmsgg2jpqtjs9eb40j3qa1hdek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
